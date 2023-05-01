@@ -7,6 +7,12 @@
 * 5 Solicitar una contraseña
 * 6 Minijuego de array tridimensional
 
+<br>
+
 🚧 EN CONSTRUCCIÓN 🚧
 
+<br>
+
 Por el momento, modulo 1 y 2 estan hechos!
+
+<br>
