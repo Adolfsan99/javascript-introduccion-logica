@@ -1,4 +1,4 @@
-# Introduccion a JavaScript
+# Introducción a JavaScript
 
 * 1 Hola mundo y uso de la consola
 * 2 Tipos de datos
