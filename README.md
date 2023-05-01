@@ -1,11 +1,11 @@
 # Introduccion a JavaScript
 
-*1 Hola mundo y uso de la consola
-*2 Tipos de datos
-*3 Operadores
-*4 Calcular promedio
-*5 Solicitar una contraseña
-*6 Minijuego de array tridimensional
+* 1 Hola mundo y uso de la consola
+* 2 Tipos de datos
+* 3 Operadores
+* 4 Calcular promedio
+* 5 Solicitar una contraseña
+* 6 Minijuego de array tridimensional
 
 ///EN CONSTRUCCIÓN///
 
