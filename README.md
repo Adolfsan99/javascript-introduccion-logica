@@ -1,6 +1,6 @@
 # Introducción a JavaScript
 
-* 1 Hola mundo y uso de la consola
+* 1 Hola mundo
 * 2 Tipos de datos
 * 3 Operadores
 * 4 Calcular promedio
